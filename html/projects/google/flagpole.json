@@ -1,0 +1,24 @@
+{
+  "project": {
+    "id": "",
+    "name": "google",
+    "path": "tests",
+    "source": "src",
+    "output": "out",
+    "images": "images",
+    "cache": "cache"
+  },
+  "environments": {
+    "prod": {
+      "name": "prod",
+      "defaultDomain": "https://www.google.com"
+    }
+  },
+  "suites": {
+    "smoke": {
+      "id": "",
+      "name": "smoke",
+      "tags": []
+    }
+  }
+}
